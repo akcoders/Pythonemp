@@ -8,9 +8,7 @@ import sys
 from pynput import mouse, keyboard
 import pyscreenshot as ImageGrab
 import requests
-import mysql.connector
 import io
-import cv2 
 from PIL import ImageGrab 
 import numpy as np  
 import signal
